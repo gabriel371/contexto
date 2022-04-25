@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 const Color kTextColor = Color(0xFFFFFFFF);
+const Color kTextLoadingColor = Color(0xFF757575);
 const Color kHintTextColor = Color(0xFF757575);
 const Color kBackgroundColor = Color(0xFF15202B);
 const Color kTextFieldBorderColor = Color(0xFFFFFFFF);
